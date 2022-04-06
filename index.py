@@ -18,4 +18,4 @@ st.write("""
     * Vaccines against COVID-19 are safe and effective. Vaccines teach our immune system to fight the virus that causes COVID-19.
 """)
 
-variantName = st.sidebar.selectbox("Variant Names: ",)
+variantName = st.sidebar.selectbox("Variant Names: ")
