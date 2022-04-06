@@ -4,7 +4,7 @@ import pandas as pd;
 # import plotly.graph_objects as go
 import dataSeperation;
 
-dataSeperation.dataSeperate()
+# dataSeperation.dataSeperate()
 
 st.header("Covid Predicition")
 st.write("""
